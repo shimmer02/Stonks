@@ -129,7 +129,7 @@ html, body {
 .funds{
     margin-top: 30px;
     display: flex;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     gap: 20px;
     margin-bottom: 30px;
 }
@@ -174,11 +174,11 @@ html, body {
 .portfolio{
     height: 47vh;
     width: 100%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .header{
-    border: 1px solid cyan;
+    /* border: 1px solid cyan; */
     margin-top: 10px;
 }
 .header h2{
@@ -189,11 +189,12 @@ html, body {
 .card-box{
     width: 100%;
     height: 37vh;
-    border: 1px solid white;
+    /* border: 1px solid white; */
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    gap: 5px;
 }
 
 .card {
